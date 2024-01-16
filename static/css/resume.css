@@ -5,6 +5,7 @@ html {
 
 body {
   font-family: 'Open Sans', serif;
+  font-size: 1.3rem;
   padding-top: 54px;
   color: #868e96;
 }
@@ -38,14 +39,14 @@ h1 {
 }
 
 h2 {
-  font-size: 3.5rem;
+  font-size: 3.7rem;
 }
 
 .subheading {
   text-transform: uppercase;
   font-weight: 500;
   font-family: 'Saira Extra Condensed', serif;
-  font-size: 1.35rem;
+  font-size: 1.7rem;
 }
 
 .list-social-icons a {
@@ -61,7 +62,7 @@ h2 {
 }
 
 .list-icons {
-  font-size: 3rem;
+  font-size: 3.3rem;
 }
 
 .list-icons .list-inline-item i:hover {
